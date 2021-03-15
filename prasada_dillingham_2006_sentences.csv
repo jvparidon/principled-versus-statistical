@@ -1,0 +1,91 @@
+connection.type,connection.subtype,item,in.general,by.virtue.of,causal.essence,statistical,formal,should,prevalence.estimates ,word1_singular,word2_singular,word1_plural,word2_plural,singular.googleNews,singular.wiki,plural.googleNews,plural.wiki
+principled,artifact,airplanes have wings,3.83,6.78,2.50,4.56,4.50,6.82,96.13,airplanes,wings,airplane,wings,0.3134585,0.383928,0.254327,0.36773515
+principled,artifact,ambulances have sirens,5.50,5.72,2.39,5.33,5.22,6.44,97.96,ambulances,sirens,ambulance,siren,0.2944242,0.34258673,0.45685303,0.5159554
+principled,artifact,cars have four wheels,4.17,5.83,2.50,5.56,5.39,5.61,98.45,NA,NA,NA,NA,NA,NA,NA,NA
+principled,artifact,diapers are absorbent,5.06,5.44,3.11,4.94,5.72,6.67,95.86,diapers,absorbent,diaper,absorbent,0.40958774,0.47229084,0.39647138,0.45467088
+principled,artifact,fire trucks have hoses,4.61,5.61,2.72,5.17,5.61,6.61,97.84,firetrucks,hoses,firetruck,hose,0.35404465,0.36925164,0.41882265,0.4083772
+principled,artifact,needles are sharp,5.22,6.17,2.83,5.00,5.33,6.61,96.47,needles,sharp,needle,sharp,0.2185415,0.32019287,0.1583912,0.2583724
+principled,artifact,raincoats are waterproof,6.00,5.56,2.72,5.72,5.39,6.78,96.38,raincoats,waterproof,raincoat,waterproof,0.40262493,0.5435473,0.39120054,0.50615346
+principled,artifact,roller skates have wheels,3.61,5.56,2.78,4.94,5.00,6.83,94.61,NA,NA,NA,NA,NA,NA,NA,NA
+principled,artifact,sandpaper is rough,5.33,5.89,2.89,5.28,4.50,5.89,95.75,sandpaper,rough,sandpaper,rough,0.35462344,0.40207082,0.35462344,0.40207082
+principled,artifact,scissors cut,4.56,5.22,2.78,5.33,4.61,6.56,93.25,NA,NA,NA,NA,NA,NA,NA,NA
+principled,artifact,spandex is stretchy,4.94,5.78,3.00,4.83,4.78,6.67,94.10,spandex,stretchy,spandex,stretchy,0.6011737,0.5568135,0.6011737,0.5568135
+principled,artifact,submarines are airtight,4.72,6.50,2.33,4.94,4.72,6.06,95.34,submarines,airtight,submarine,airtight,0.10903066,0.10642616,0.06546654,0.121157974
+principled,artifact,tables are flat,5.44,6.11,2.67,5.50,5.39,5.72,94.85,tables,flat,table,flat,0.19080496,0.24140798,0.18336883,0.16188903
+principled,artifact,trains travel on tracks,4.39,6.00,2.11,4.89,5.11,6.17,98.53,trains,tracks,train,tracks,0.35739064,0.39814386,0.37420076,0.46961352
+principled,artifact,trampolines are bouncy,4.89,5.94,2.78,5.28,5.00,6.67,96.22,trampolines,bouncy,trampoline,bouncy,0.35372695,0.49704707,0.3645737,0.5065186
+principled,natural.kind,bananas are yellow,5.11,4.39,2.94,4.94,5.28,5.28,87.94,bananas,yellow,banana,yellow,0.27708334,0.3839465,0.24679786,0.3501522
+principled,natural.kind,birds can fly,5.22,5.33,3.33,5.00,5.61,5.00,89.80,birds,fly,bird,flies,0.32478547,0.3669517,0.27684754,0.38597897
+principled,natural.kind,carrots are crunchy,5.33,5.00,3.06,4.67,5.39,4.89,87.90,carrots,crunchy,carrot,crunchy,0.3376731,0.31673178,0.4649263,0.30746368
+principled,natural.kind,cheetahs run fast,5.83,6.44,2.94,4.83,5.56,5.61,95.17,cheetahs,fast,cheetah,fast,0.20388547,0.30498347,0.14259256,0.24725376
+principled,natural.kind,cherries are red ,5.67,3.67,3.22,4.89,5.50,4.83,91.19,cherries,red,cherry,red,0.25540698,0.42486122,0.22060525,0.36036476
+principled,natural.kind,dogs are four-legged ,4.78,5.67,2.83,4.89,5.06,6.17,97.59,dog,four-legged,dogs,four-legged,NA,0.59502625,NA,0.56386936
+principled,natural.kind,eggshells are fragile ,5.22,6.33,2.17,4.67,5,4.83,94.79,eggshell,fragile,eggshells,fragile,0.2984711,0.29883856,0.30657214,0.27138448
+principled,natural.kind,grass is green ,5.06,5.06,3,4.33,5.11,5.72,94.47,grass,green,grass,green,0.31089735,0.4695589,0.31089735,0.4695589
+principled,natural.kind,lemons are sour ,5.89,6,3.28,5.11,4.89,6,95.48,lemon,sour,lemons,sour,0.31154436,0.4255924,0.3071002,0.38731796
+principled,natural.kind,milk is white,5.06,4.83,3,5.17,4.17,5.39,92.12,milk,white,milk,white,0.112181015,0.25825018,0.112181015,0.25825018
+principled,natural.kind,rocks are hard ,4.39,5.72,3.67,5.56,5,5.61,95.69,rock,hard,rocks,hard,0.19903718,0.28795385,0.18525486,0.2504291
+principled,natural.kind,snow is white ,5.28,5.28,2.94,5.22,4.78,5.5,95.81,snow,white,snow,white,0.16396327,0.3048178,0.16396327,0.3048178
+principled,natural.kind,spinach is green ,5.56,4.61,2.5,4.61,4.44,6,95.13,spinach,green,spinach,green,0.20542984,0.39824885,0.20542984,0.39824885
+principled,natural.kind,strawberries are red ,5.44,4.5,3.06,5.44,4.5,5.28,91.18,strawberry,red,strawberries,red,0.2001645,0.35299423,0.16892219,0.29412058
+principled,natural.kind,turtles walk slowly ,5.11,4.83,2.89,4.67,4.94,4.44,93.55,turtle,slowly,turtles,slowly,0.18107797,0.15609697,0.09610014,0.11612244
+principled,social.kind,architects design buildings,5.33,5.28,3.33,5.33,5.44,6.28,93.9,architect,building,architects,buildings,0.35426274,0.429422,0.3645394,0.45628512
+principled,social.kind,artists are creative ,5.5,5.56,3.61,4.72,5.28,6,89.08,artist,creative,artists,creative,0.324894,0.38353705,0.37455407,0.38853228
+principled,social.kind,cheerleaders are spirited,5.39,4.89,3.89,4.89,5.33,5.56,85.58,cheerleader,spirited,cheerleaders,spirited,0.21889669,0.27554026,0.22052264,0.2634319
+principled,social.kind,christians read the bible,5.06,5.28,3.56,5.06,5.28,5.22,76.11,christian,bible,christians,bible,0.41165933,0.5288883,0.3687556,0.56974155
+principled,social.kind,dancers move gracefully ,5,4.44,3.56,5.22,5.28,5.94,84.26,dancer,gracefully,dancers,gracefully,0.23697262,0.24030323,0.23214485,0.23722133
+principled,social.kind,doctors diagnose ailments ,4.89,5.44,2.72,5.61,5.61,5.5,92.15,doctor,ailment,doctors,ailments,0.38693994,0.34636772,0.37522733,0.38904652
+principled,social.kind,gymnasts are flexible,5.83,5.5,4.22,4.5,3.72,6.72,94.93,gymnasts,flexible,gymnasts,flexible,0.066504,0.10481121,0.066504,0.10481121
+principled,social.kind,hindus don’t eat beef ,5.33,4.61,3.28,5.28,4.94,5.67,84.54,hindu,beef,hindus,beef,0.031174814,0.1633038,0.009192278,0.18332888
+principled,social.kind,jews don’t eat pork ,5.44,4.28,2.78,4.94,4.78,4.61,81.02,jew,pork,jews,pork,0.17414486,0.24060962,0.13585822,0.22931412
+principled,social.kind,journalists report news,5.33,5.33,2.83,5.5,5.61,4.83,88.51,journalist,news,journalists,news,0.28170827,0.4060817,0.38925248,0.43983707
+principled,social.kind,lifeguards can swim ,4.28,6.33,2.89,5.56,5.06,6.83,95.87,lifeguard,swim,lifeguards,swim,0.50882685,0.5453979,0.49112278,0.48300228
+principled,social.kind,mormons don’t drink alcohol,5.39,5.22,3.33,5.56,4.72,5.39,70.28,mormon,alcohol,mormons,alcohol,0.14720787,0.1334031,0.13405247,0.16675398
+principled,social.kind,police officers wear badges,5.61,5.44,2.28,5.56,5.22,5.89,93.47,police,badge,police,badges,0.22746408,0.21543235,0.17452641,0.18234648
+principled,social.kind,teachers impart knowledge ,5.39,5.56,3.22,4.89,4.83,6.39,87.99,teacher,knowledge,teachers,knowledge,0.13542156,0.22326143,0.13063501,0.21720468
+principled,social.kind,tightrope walkers have good balance,6.22,5.94,3.5,4.94,4.89,6.5,94.26,NA,NA,NA,NA,NA,NA,NA,NA
+statistical,artifact,barns are red,5.22,2.83,2.56,3.56,4.39,2.33,72.58,barn,red,barns,red,0.09845959,0.14313377,0.08489974,0.12758707
+statistical,artifact,bricks are red ,5.5,3.28,2.78,4.17,5,3.11,71.3,brick,red,bricks,red,0.20353477,0.38930812,0.06743845,0.2790887
+statistical,artifact,bulldozers are yellow,5.78,2.17,1.67,3.22,3.56,2.89,69.98,bulldozer,yellow,bulldozers,yellow,0.12501818,0.16186166,0.08441593,0.13993642
+statistical,artifact,cars have radios ,5.67,3.17,1.56,2.22,3.5,3.89,85.74,car,radio,cars,radios,0.14880064,0.31901664,0.32388672,0.4480321
+statistical,artifact,clocks have alarms ,5.56,3.5,2.11,3.61,4.17,3.89,74.29,clock,alarm,clocks,alarms,0.21481639,0.49211374,0.33715546,0.39727667
+statistical,artifact,diapers are white,5.11,2.5,2,4.06,5.39,2.89,78.64,diaper,white,diapers,white,0.10681349,0.13795947,0.070526056,0.12539518
+statistical,artifact,fire trucks are red ,6.06,3.83,2.17,4.5,5.5,4.56,88.91,NA,NA,firetrucks,red,0.99999994,0.99999994,0.13944101,0.24526078
+statistical,artifact,glue is white,5.44,3.22,1.83,3.61,4.39,4.28,77.06,glue,white,glue,white,0.17535228,0.20194945,0.17535228,0.20194945
+statistical,artifact,hair nets are black ,5.83,2.83,1.78,2.89,4.22,5.06,64.03,NA,NA,NA,NA,NA,NA,NA,NA
+statistical,artifact,rocking chairs are wooden,5.61,2.78,2.06,3.22,5.11,3.94,75.88,NA,NA,NA,NA,NA,NA,NA,NA
+statistical,artifact,shower caps are transparent,4.72,2.28,1.5,3,4.89,4.17,63.57,NA,NA,NA,NA,NA,NA,NA,NA
+statistical,artifact,tables are made of wood,5.39,3.11,2,3.17,5,2.17,65.49,table,wood,tables,wood,0.12334571,0.25524265,0.19055551,0.22987969
+statistical,artifact,taxis are yellow ,5.06,3.17,1.5,3.67,5.06,5.11,80.01,taxi,yellow,taxis,yellow,0.14805889,0.1944971,0.22174561,0.29361755
+statistical,artifact,trampolines are black,4.94,1.94,1.89,3.22,5.28,5.22,64.29,trampoline,black,trampolines,black,-0.015137461,0.0307598,-0.03413567,0.013003132
+statistical,artifact,wallets are made of leather,5.67,2.11,1.72,3.06,4.22,4.67,63.53,wallet,leather,wallets,leather,0.2052067,0.37391308,0.18821727,0.34979686
+statistical,natural.kind,bears perform at circuses,3.56,1.78,2.83,3.94,4.78,5.06,36.03,bear,circus,bears,circuses,0.08377277,0.17459352,0.1620749,0.21575941
+statistical,natural.kind,birds are kept in cages,5.28,3.17,2.44,4.39,4.11,4.17,50.68,bird,cages,birds,cages,0.24883063,0.33305213,0.3587867,0.38024324
+statistical,natural.kind,cats like milk,6,4.06,1.56,2.11,4.56,4.94,83.54,cat,milk,cats,milk,0.18429993,0.18096301,0.16497126,0.17119616
+statistical,natural.kind,dogs bark at strangers,5.33,4.56,2.06,4.11,3.72,4.17,72.11,dog,strangers,dogs,strangers,0.2180177,0.23776959,0.30281666,0.346516
+statistical,natural.kind,dogs wear collars ,5.61,2.39,2.11,4,3.78,3,70.44,dog,collars,dogs,collars,0.30975816,0.41854176,0.37490022,0.47150105
+statistical,natural.kind,eggshells are white ,5.67,3.11,2.89,4.56,3.39,3.44,84.24,eggshell,white,eggshells,white,0.28197584,0.39966324,0.08835533,0.20903023
+statistical,natural.kind,oranges are grown in florida,5.28,3.83,2.33,4.39,4.44,2.17,66.2,orange,florida,oranges,florida,0.14814861,0.22395845,0.19465959,0.15286735
+statistical,natural.kind,pigeons sit on statues ,5.67,3.06,2.28,3.78,1.61,3.5,66.88,pigeon,statue,pigeons,statues,0.2310734,0.24093336,0.30618986,0.3343819
+statistical,natural.kind,pigs are kept in pens ,6.11,4.11,2.22,3.89,3.06,2.61,74.23,pig,pen,pigs,pens,0.27464828,0.28770784,0.3273147,0.31035423
+statistical,natural.kind,raccoons eat garbage,5.28,3.22,2.06,3.61,3.72,2.11,67.71,raccoon,garbage,raccoons,garbage,0.27856594,0.30699795,0.34040144,0.3452003
+statistical,natural.kind,rocks are jagged ,5.78,4.5,1.94,4.5,1.61,1.39,74.83,rock,jagged,rocks,jagged,0.3124779,0.3719514,0.3896571,0.48400927
+statistical,natural.kind,squirrels are found in parks,6.11,4.39,2,4,3.22,4.13,68.25,squirrel,park,squirrels,parks,0.14746468,0.22516784,0.18907888,0.25905293
+statistical,natural.kind,summers are humid ,6.11,4.28,2.17,3.33,3.72,4.94,77.89,summer,humid,summers,humid,0.25275928,0.3953682,0.35872534,0.49000528
+statistical,natural.kind,winters are snowy ,6,4.5,2.28,4.72,4.11,3.06,72.39,winter,snowy,winters,snowy,0.5056856,0.60538334,0.4426699,0.5616759
+statistical,natural.kind,worms are used as bait,5.61,3.72,1.94,3.44,3.17,3.72,62.59,worm,bait,worms,bait,0.32446542,0.40776035,0.42994052,0.43503737
+statistical,social.kind,artists are eccentric ,4.83,4.11,2.11,2.94,2.94,3.44,67.63,artist,eccentric,artists,eccentric,0.3176105,0.2581829,0.20569804,0.18428741
+statistical,social.kind,bikers have tattoos ,5.56,3,1.61,2,3.72,3.94,65.05,biker,tattoo,bikers,tattoos,0.25749788,0.3477152,0.20950003,0.30385205
+statistical,social.kind,brazilians like soccer ,5.72,2.89,2.06,2.89,4.5,3.33,71.79,brazilian,soccer,brazilians,soccer,0.22231889,0.32603812,0.2308195,0.3218879
+statistical,social.kind,celebrities are arrogant,5.17,3.5,1.67,1.94,3.33,1.89,54.57,celebrity,arrogant,celebrities,arrogant,0.18356007,0.19479835,0.14526089,0.15938058
+statistical,social.kind,englishmen drink tea ,5.61,3.39,2.22,2.39,2,1.67,67.15,englishman,tea,englishmen,tea,0.14455746,0.16993424,NA,0.15270765
+statistical,social.kind,frenchmen drink wine,5,2.44,2.06,2.67,2.28,2.11,67.86,frenchman,wine,frenchmen,wine,0.16415194,0.20270792,NA,0.1723546
+statistical,social.kind,germans drink beer ,4.17,2.22,2.06,2.72,3.89,2.06,67.78,german,beer,germans,beer,0.12050237,0.24971464,0.15218335,0.17546101
+statistical,social.kind,golfers wear plaid pants,5.56,1.94,2.44,2.78,3.72,2.11,48.93,golfer,plaid,golfers,plaid,0.17533706,0.18565995,0.18202724,0.13558948
+statistical,social.kind,hindus live in india ,4.94,2.72,2.5,2.67,4.67,2.06,67.9,hindu,india,hindus,india,0.54541546,0.5479282,0.5125688,0.5691862
+statistical,social.kind,italians are catholic ,4.61,2.44,1.72,2.28,3.33,2.06,70,italian,catholic,italians,catholic,0.3207463,0.45696646,0.29380825,0.3548867
+statistical,social.kind,mexicans eat spicy food,5.67,2.44,2.61,3.17,3.33,2.71,69.76,NA,NA,NA,NA,NA,NA,NA,NA
+statistical,social.kind,muslims are middle eastern,4.94,2.67,1.94,3.28,4.5,1.94,66.57,NA,NA,NA,NA,NA,NA,NA,NA
+statistical,social.kind,police officers eat donuts,5.39,1.83,2.5,3.78,3.5,1.78,63.19,NA,NA,NA,NA,NA,NA,NA,NA
+statistical,social.kind,professors are absent-minded ,4.17,2.11,2.11,3.28,3.61,1.67,40.47,professor,absent-minded,professors,absent-minded,NA,0.38167715,NA,0.28805158
+statistical,social.kind,texans are tall,4.22,2.11,2.72,4.22,4.39,1.61,50.35,texan,tall,texans,tall,0.067995384,0.16668475,0.060326397,0.14019825
