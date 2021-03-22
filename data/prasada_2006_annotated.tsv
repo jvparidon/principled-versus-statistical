@@ -1,0 +1,101 @@
+sentence	concept_start	concept_end	verb_start	property_start	property_end
+"['[CLS]', 'airplanes', 'have', 'sirens', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'ambulance', '##s', 'have', 'wings', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'cars', 'are', 'absorb', '##ent', '[SEP]']"	1	1	2	3	4
+"['[CLS]', 'dia', '##pers', 'have', 'four', 'wheels', '[SEP]']"	1	2	3	4	5
+"['[CLS]', 'fire', 'trucks', 'are', 'sharp', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'needles', 'have', 'hose', '##s', '[SEP]']"	1	1	2	3	4
+"['[CLS]', 'rain', '##coat', '##s', 'have', 'wheels', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'roller', 'skate', '##s', 'are', 'water', '##proof', '[SEP]']"	1	3	4	5	6
+"['[CLS]', 'sand', '##paper', 'cuts', '[SEP]']"	1	2	3	3	3
+"['[CLS]', 'scissors', 'are', 'rough', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'airplanes', 'have', 'wings', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'ambulance', '##s', 'have', 'sirens', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'cars', 'have', 'four', 'wheels', '[SEP]']"	1	1	2	3	4
+"['[CLS]', 'dia', '##pers', 'are', 'absorb', '##ent', '[SEP]']"	1	2	3	4	5
+"['[CLS]', 'fire', 'trucks', 'have', 'hose', '##s', '[SEP]']"	1	2	3	4	5
+"['[CLS]', 'needles', 'are', 'sharp', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'rain', '##coat', '##s', 'are', 'water', '##proof', '[SEP]']"	1	3	4	5	6
+"['[CLS]', 'roller', 'skate', '##s', 'have', 'wheels', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'sand', '##paper', 'is', 'rough', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'scissors', 'cut', '[SEP]']"	1	1	2	2	2
+"['[CLS]', 'span', '##de', '##x', 'is', 'stretch', '##y', '[SEP]']"	1	3	4	5	6
+"['[CLS]', 'submarines', 'are', 'air', '##tight', '[SEP]']"	1	1	2	3	4
+"['[CLS]', 'tables', 'are', 'flat', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'trains', 'travel', 'on', 'tracks', '[SEP]']"	1	1	2	4	4
+"['[CLS]', 'tram', '##pol', '##ines', 'are', 'bo', '##un', '##cy', '[SEP]']"	1	3	4	5	7
+"['[CLS]', 'bananas', 'are', 'yellow', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'birds', 'can', 'fly', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'carrot', '##s', 'are', 'crunch', '##y', '[SEP]']"	1	2	3	4	5
+"['[CLS]', 'che', '##eta', '##hs', 'run', 'fast', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'cher', '##ries', 'are', 'red', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'dogs', 'are', 'four', '-', 'legged', '[SEP]']"	1	1	2	3	5
+"['[CLS]', 'eggs', '##hell', '##s', 'are', 'fragile', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'grass', 'is', 'green', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'lemon', '##s', 'are', 'sour', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'milk', 'is', 'white', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'rocks', 'are', 'hard', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'snow', 'is', 'white', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'spin', '##ach', 'is', 'green', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'straw', '##berries', 'are', 'red', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'turtles', 'walk', 'slowly', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'architects', 'design', 'buildings', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'artists', 'are', 'creative', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'cheer', '##leader', '##s', 'are', 'spirited', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'christians', 'read', 'the', 'bible', '[SEP]']"	1	1	2	4	4
+"['[CLS]', 'dancers', 'move', 'gracefully', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'doctors', 'dia', '##gno', '##se', 'ai', '##lm', '##ents', '[SEP]']"	1	1	2	5	7
+"['[CLS]', 'gymnast', '##s', 'are', 'flexible', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'hindus', 'don', '’', 't', 'eat', 'beef', '[SEP]']"	1	1	2	6	6
+"['[CLS]', 'jews', 'don', '’', 't', 'eat', 'pork', '[SEP]']"	1	1	2	6	6
+"['[CLS]', 'journalists', 'report', 'news', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'life', '##guard', '##s', 'can', 'swim', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'mormon', '##s', 'don', '’', 't', 'drink', 'alcohol', '[SEP]']"	1	2	3	7	7
+"['[CLS]', 'police', 'officers', 'wear', 'badges', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'teachers', 'imp', '##art', 'knowledge', '[SEP]']"	1	1	2	4	4
+"['[CLS]', 'tight', '##rop', '##e', 'walkers', 'have', 'good', 'balance', '[SEP]']"	1	3	4	6	7
+"['[CLS]', 'barns', 'are', 'red', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'bricks', 'are', 'red', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'bull', '##do', '##zers', 'are', 'yellow', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'cars', 'have', 'radios', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'clocks', 'have', 'alarms', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'dia', '##pers', 'are', 'white', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'fire', 'trucks', 'are', 'red', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'glue', 'is', 'white', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'hair', 'nets', 'are', 'black', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'rocking', 'chairs', 'are', 'wooden', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'shower', 'caps', 'are', 'transparent', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'tables', 'are', 'made', 'of', 'wood', '[SEP]']"	1	1	2	5	5
+"['[CLS]', 'taxis', 'are', 'yellow', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'tram', '##pol', '##ines', 'are', 'black', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'wallet', '##s', 'are', 'made', 'of', 'leather', '[SEP]']"	1	2	3	6	6
+"['[CLS]', 'bears', 'perform', 'at', 'circus', '##es', '[SEP]']"	1	1	2	4	5
+"['[CLS]', 'birds', 'are', 'kept', 'in', 'cages', '[SEP]']"	1	1	2	5	5
+"['[CLS]', 'cats', 'like', 'milk', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'dogs', 'bark', 'at', 'strangers', '[SEP]']"	1	1	2	4	4
+"['[CLS]', 'dogs', 'wear', 'collar', '##s', '[SEP]']"	1	1	2	3	4
+"['[CLS]', 'eggs', '##hell', '##s', 'are', 'white', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'orange', '##s', 'are', 'grown', 'in', 'florida', '[SEP]']"	1	2	3	6	6
+"['[CLS]', 'pigeons', 'sit', 'on', 'statues', '[SEP]']"	1	1	2	4	4
+"['[CLS]', 'pigs', 'are', 'kept', 'in', 'pens', '[SEP]']"	1	1	2	5	5
+"['[CLS]', 'ra', '##cco', '##ons', 'eat', 'garbage', '[SEP]']"	1	3	4	5	5
+"['[CLS]', 'rocks', 'are', 'jagged', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'squirrels', 'are', 'found', 'in', 'parks', '[SEP]']"	1	1	2	5	5
+"['[CLS]', 'summers', 'are', 'humid', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'winters', 'are', 'snowy', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'worms', 'are', 'used', 'as', 'bait', '[SEP]']"	1	1	2	5	5
+"['[CLS]', 'artists', 'are', 'eccentric', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'biker', '##s', 'have', 'tattoos', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'brazilian', '##s', 'like', 'soccer', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'celebrities', 'are', 'arrogant', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'english', '##men', 'drink', 'tea', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'french', '##men', 'drink', 'wine', '[SEP]']"	1	2	3	4	4
+"['[CLS]', 'germans', 'drink', 'beer', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'golfer', '##s', 'wear', 'plaid', 'pants', '[SEP]']"	1	2	3	4	5
+"['[CLS]', 'hindus', 'live', 'in', 'india', '[SEP]']"	1	1	2	4	4
+"['[CLS]', 'italians', 'are', 'catholic', '[SEP]']"	1	1	2	3	3
+"['[CLS]', 'mexican', '##s', 'eat', 'spicy', 'food', '[SEP]']"	1	2	3	4	5
+"['[CLS]', 'muslims', 'are', 'middle', 'eastern', '[SEP]']"	1	1	2	3	4
+"['[CLS]', 'police', 'officers', 'eat', 'don', '##uts', '[SEP]']"	1	2	3	4	5
+"['[CLS]', 'professors', 'are', 'absent', '-', 'minded', '[SEP]']"	1	1	2	3	5
+"['[CLS]', 'texans', 'are', 'tall', '[SEP]']"	1	1	2	3	3

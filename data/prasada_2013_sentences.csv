@@ -1,0 +1,85 @@
+Predication.type,Type,Item,Kind,Truth.judgment,Cue.validity.estimate,Prevalence.estimate,Word1,Word2,to_include,plural.GoogleNews-vectors-negative300.bin,plural.FastText.cc.en.300.vec,singular.GoogleNews-vectors-negative300.bin,singular.FastText.cc.en.300.vec
+Majority characteristic,Principled,Airplanes have wings,Artifact,2.91,0.11,95.32,airplanes,wings,1,0.25432699412377235,0.36773515,0.3134585227071558,0.383928
+Majority characteristic,Principled,Ambulances have sirens,Artifact,2.5,1.47,89.11,ambulances,sirens,1,0.45685303396303506,0.5159554,0.29442420845272044,0.34258673
+Majority characteristic,Principled,Needles are sharp,Artifact,2.42,0.42,88.74,needles,sharp,1,0.15839120305712626,0.2583724,0.21854151206766786,0.32019287
+Majority characteristic,Principled,Tables are flat,Artifact,2.29,0.05,87.95,tables,flat,1,0.18336883979628887,0.16188903,0.1908049559772403,0.24140798
+Majority characteristic,Principled,Diapers are absorbent,Artifact,2.65,0.42,87.58,diapers,absorbent,1,0.39647136718773135,0.45467088,0.4095877591359561,0.47229084
+Majority characteristic,Principled,Birds have wings,Natural,2.63,1.58,94.11,birds,wings,1,0.31521084141480993,0.3639361,0.32720608566752885,0.407477
+Majority characteristic,Principled,Lemons are sour,Natural,2.25,1.06,91.42,lemons,sour,1,0.30710023522337127,0.38731796,0.31154435294356597,0.4255924
+Majority characteristic,Principled,Leopards have spots,Natural,2.17,0.68,88.32,leopards,spots,1,0.21160902546294966,0.33735818,0.15966761633693027,0.29671323
+Majority characteristic,Principled,Dogs have tails,Natural,2.42,0.21,87.16,dogs,tails,1,0.28928365592363126,0.33970246,0.29874094072759144,0.36026058
+Majority characteristic,Principled,Feathers are light,Natural,2.29,0.44,86.16,feathers,light,1,0.12138282147274217,0.20013022,0.18898634881358847,0.3094513
+Majority characteristic,Principled,Scissors cut,Artifact,2.67,1.00,91.89,scissors,cut,1,0.11491383711906547,0.4731386,0.27476727906943094,0.47313866
+Majority characteristic,Principled,Horses have four legs,Natural,2.54,-0.11,94.58,NA,NA,1,NA,NA,NA,NA
+Minority characteristic,Principled,Sheep produce milk,Natural,2,0.06,51.89,sheep,milk,1,0.35925274171258564,0.3660869,0.35925274171258564,0.3660869
+Minority characteristic,Principled,Lions have manes,Natural,1.46,0.89,53.63,lions,manes,1,0.25826703120752065,0.43359926,0.2254435630295626,0.471273
+Minority characteristic,Principled,Deer have antlers,Natural,1.09,1.05,54.21,deer,antlers,1,0.5895555289907894,0.64529777,0.5854926233176244,0.5921712
+Minority characteristic,Principled,Ducks lay eggs,Natural,2.04,0.58,56.53,ducks,eggs,1,0.42762817086498095,0.4222337,0.3632211404929344,0.46281388
+Minority characteristic,Principled,Elk have antlers,Natural,1.67,0.42,57,elk,antlers,1,0.5898873868662788,0.63710487,0.5801803963283956,0.59656954
+Minority characteristic,Principled,Cows have udders,Natural,2.04,1.33,57.74,cows,udders,1,0.48813592642895437,0.6424299,0.4853908154591184,0.61421204
+Minority characteristic,Principled,Moose have antlers,Natural,1.79,0.67,60.21,moose,antlers,1,0.5549795964658799,0.6390188,0.5167964183600894,0.5493683
+Minority characteristic,Principled,Goats have horns,Natural,1.42,0.11,62.53,goats,horns,1,0.30921722324424644,0.44574547,0.3059516663854506,0.48214105
+Minority characteristic,Principled,Snakes lay eggs,Natural,2,0.32,63.68,snakes,eggs,1,0.2554162841751859,0.29314876,0.2595123583661055,0.28274986
+Minority characteristic,Principled,Kangaroos have pouches,Natural,2.33,1.26,64.89,kangaroos,pouches,1,0.21945384399156556,0.2658766,0.2313208865485924,0.385462
+Minority characteristic,Principled,Pigs suckle their young,Natural,1.54,-0.53,60.95,pigs,suckle,0,0.22349060112683478,0.27315566,0.22315620966885374,0.20927784
+Minority characteristic,Principled,Peacocks have beautiful tails,Natural,1.91,1.32,64.63,peacocks,tails,1,0.32107151149301927,0.31287417,0.3209877558699288,0.3908848
+Majority statistical,Statistical,Trumpets are loud,Artifact,1.38,0.11,79.47,trumpets,loud,1,0.30426461418605505,0.35965332,0.31358417481999445,0.2825792
+Majority statistical,Statistical,Cars have radios,Artifact,1.46,0.79,74.74,cars,radios,1,0.3238867222667697,0.4480321,0.1488006428822638,0.31901664
+Majority statistical,Statistical,Dolls wear dresses,Artifact,1.04,0.47,68.74,dolls,dresses,1,0.49743799434212554,0.47834083,0.4208038468477874,0.40188527
+Majority statistical,Statistical,Diapers are white,Artifact,0.83,0.79,78.79,diapers,white,1,0.07052606100033913,0.12539518,0.10681350382835146,0.13795947
+Majority statistical,Statistical,Cats like milk,Natural,2.21,0.67,74.21,cats,milk,1,0.16497126885227567,0.17119616,0.1842999380535793,0.18096301
+Majority statistical,Statistical,Dogs bark at strangers,Natural,1.75,2.37,62.05,dogs,strangers,1,0.30281667076124197,0.346516,0.21801770673984036,0.23776959
+Majority statistical,Statistical,Eggshells are white,Natural,1.75,0.21,59.79,eggshells,white,1,0.08835533752382602,0.20903023,0.28197584999981984,0.39966324
+Majority statistical,Statistical,Summers are humid,Natural,1.21,1.16,58.89,summers,humid,1,0.35872532822671555,0.49000528,0.2527592884668362,0.3953682
+Majority statistical,Statistical,Winters are snowy,Natural,1.29,1.58,57.58,winters,snowy,1,0.442669926372187,0.5616759,0.505685622237433,0.60538334
+Majority statistical,Statistical,Raccoons eat garbage,Natural,1.13,0.53,54.74,raccoons,garbage,1,0.34040143031032843,0.3452003,0.2785659204727759,0.30699795
+Majority statistical,Statistical,Fire trucks are red,Artifact,1.92,0.84,75.47,firetrucks,red,1,0.1394410112249554,0.24526078,0.1926324977624171,0.31072807
+Majority statistical,Statistical,Rocking chairs are wooden,Artifact,0.83,-0.26,71.21,chairs,wooden,1,0.3388915301148274,0.43904302,0.2156329331168078,0.3985526
+Striking,NA,Knives cut people,Artifact,1.63,0.78,34.47,knives,cut,1,0.16448191344767552,0.26035246,0.19946775538138684,0.3974512
+Striking,NA,Guns kill people,Artifact,1.38,0.37,33.32,guns,kill,1,0.23079643212702022,0.29883203,0.2627938072558558,0.33408383
+Striking,NA,Rip tides drown swimmers,Natural,1.67,1.26,21.21,riptides,swimmers,1,0.289027531903646,0.40552187,0.27559391244382,0.34067237
+Striking,NA,Mosquitoes carry malaria,Natural,1.63,2.05,25.63,mosquitoes,malaria,1,0.46247196753873115,0.56654155,0.49087470288630586,0.57027274
+Striking,NA,Strokes kill people,Natural,1.25,0.05,34.32,strokes,kill,1,0.1525664936514316,0.13420199,0.1525664936514316,0.13420199
+Striking,NA,Lead toys poison children,Artifact,1.79,0.89,43.42,lead,poison,1,0.04500591691128974,0.17830905,0.04500591691128974,0.17830905
+Striking,NA,Rusty nails cause tetanus,Artifact,1.50,1.26,33.32,nails,tetanus,0,0.27918023772905065,0.30919132,0.15443800861478302,0.21439935
+Striking,NA,Car crashes kill people,Artifact,1.48,0.21,34.00,crashes,kill,1,0.09669568796015496,0.22488055,0.05606521090186517,0.2284078
+Striking,NA,Plastic bags suffocate small children,Artifact,1.38,0.89,25.89,NA,NA,0,NA,NA,NA,NA
+Striking,NA,Loud noises deafen people,Natural,1.46,1.37,32.32,loud,deafen,1,0.4099081796964584,0.48099342,0.4099081796964584,0.48099342
+Striking,NA,Ticks carry Lyme disease,Natural,1.42,1.37,46.00,ticks,lyme,1,0.2819516982685835,0.35217264,0.2680466880360708,0.33591118
+Striking,NA,Snow storms shut down schools,Natural,1.39,1.22,33.63,NA,NA,0,NA,NA,NA,NA
+Quasi-definition,Principled,Cats are animals,Natural,2.42,0.17,91.74,cats,animals,1,0.7497918347197225,0.5941678,0.5907688475170497,0.50267553
+Quasi-definition,Principled,Mushrooms are fungi,Natural,2.46,1.47,90.11,mushrooms,fungi,1,0.5258972837612002,0.59815747,0.4866365210178235,0.5385038
+Quasi-definition,Principled,Kangaroos are marsupials,Natural,2.33,1.37,86.26,kangaroos,marsupials,1,0.6424116681288868,0.6648282,0.549347614477697,0.6241872
+Quasi-definition,Principled,Ants are insects,Natural,2.83,0.72,85.63,ants,insects,1,0.7140018364877718,0.706659,0.6691938744399696,0.6732835
+Quasi-definition,Principled,Dogs are mammals,Natural,2,0.06,80.79,dogs,mammals,1,0.36719246333934413,0.39181384,0.40285490288099157,0.3901367
+Quasi-definition,Principled,Sows are pigs,Natural,1.74,0.58,80.37,sows,pigs,1,0.5188269833693901,0.5388839,0.31432441483899687,0.38563323
+Quasi-definition,Principled,Elms are trees,Natural,2.54,0.05,78.42,elms,trees,1,0.6347979727642187,0.6003155,0.5493025508509201,0.46422347
+Quasi-definition,Principled,Bachelors are unmarried,Social,2.63,1.32,84.11,bachelors,unmarried,1,0.4426370350608891,0.4501913,0.30763825217826346,0.4055948
+Quasi-definition,Principled,Rectangles are geometric figures,Natural,2.54,0.72,89.84,rectangles,geometric,1,0.5577299469331557,0.4926397,0.454501365671362,0.47098458
+Quasi-definition,Principled,Even numbers are divisible by 2,Natural,2.21,2.58,89.05,NA,NA,0,NA,NA,NA,NA
+Quasi-definition,Principled,Preschoolers cannot vote,Social,2.13,0.26,91.58,NA,NA,0,NA,NA,NA,NA
+Quasi-definition,Principled,US Presidents are over 35,Social,2.74,-0.68,87.26,NA,NA,0,NA,NA,NA,NA
+Majority false generalization,Statistical,Books are paperbacks,Artifact,0.21,1.68,59.84,books,paperbacks,1,0.5998158832446705,0.6367882,0.6471226758583298,0.61287564
+Majority false generalization,Statistical,Computers are pcs,Artifact,1.54,2.58,64.37,computers,pcs,1,0.2518912072593118,0.3051524,0.26563738135288617,0.47606888
+Majority false generalization,Statistical,Ducks are female,Natural,0.58,0.74,49.26,ducks,female,1,0.1259218824831154,0.21327241,0.14778801289537766,0.22415698
+Majority false generalization,Statistical,Lions are male,Natural,0.04,0.16,57.11,lions,male,1,0.30558240119754976,0.2826986,0.2631818130113408,0.31111887
+Majority false generalization,Statistical,Engineers are male,Social,0.04,0.42,72.79,engineers,male,1,0.09296713099205808,0.20343125,-0.04795333417883614,0.21282099
+Majority false generalization,Statistical,Teachers are female,Social,0.26,0.16,65.21,teachers,female,1,0.13934447426868415,0.2534291,0.1647478080947931,0.269006
+Majority false generalization,Statistical,Americans are brunettes,Social,0.21,0.21,49.84,americans,brunettes,1,0.1957444132587819,0.28645828,0.09431322170277795,0.31369966
+Majority false generalization,Statistical,Bees are worker bees,Natural,0.96,1.72,81.84,NA,NA,1,NA,NA,NA,NA
+Majority false generalization,Statistical,Humans are over 3 years old,Natural,0.00,0.32,82.53,NA,NA,1,NA,NA,NA,NA
+Majority false generalization,Statistical,Mammals are placental mammals,Natural,0.92,1.89,69.21,mammals,placental,1,0.36736865229431176,0.45137513,0.2706610246284412,0.47002688
+Majority false generalization,Statistical,Trees are deciduous trees,Natural,0.50,1.84,45.79,trees,deciduous,1,0.5389680158139031,0.50970626,0.4682092482277917,0.43546006
+Majority false generalization,Statistical,Canadians are right-handed,Social,-0.50,-0.95,74.89,canadians,right-handed,1,NA,0.08045131,NA,0.08415327
+Minority false generalization,NA,Cars are yellow,Artifact,0.5,0.21,22.84,cars,yellow,1,0.16648882170082216,0.1827732,0.10944483961158383,0.21020988
+Minority false generalization,NA,Houses are mansions,Artifact,0.21,2.05,15.63,houses,mansions,1,0.555964376308799,0.65119475,0.6058191783554732,0.6630365
+Minority false generalization,NA,Rooms are round,Artifact,0.58,1.21,19.16,rooms,round,1,0.05878781512991603,0.117101744,0.07692809781451387,0.17156553
+Minority false generalization,NA,Cats are white,Natural,0.67,0.26,20.63,cats,white,1,0.17031372045450716,0.21340668,0.19472575637964007,0.23472817
+Minority false generalization,NA,Dogs are beagles,Natural,0.88,2,21.37,dogs,beagles,1,0.6298187244793175,0.72118986,0.7418622179081245,0.72312075
+Minority false generalization,NA,Mammals are hamsters,Natural,0.54,1.47,15.47,mammals,hamsters,1,0.337497010571795,0.3529919,0.31535514578140933,0.34846288
+Minority false generalization,NA,Plants are ferns,Natural,0.04,2,17.37,plants,ferns,1,0.45593051617409197,0.5684495,0.2533564525565557,0.41383025
+Minority false generalization,NA,Tigers are albino,Natural,0.88,0.37,16.84,tigers,albino,1,NA,0.40939698,0.36470230733129344,0.43593127
+Minority false generalization,NA,Novels are mystery novels,Artifact,0.04,1.74,29.95,novels,mystery,1,0.277898551814214,0.3584724,0.31713823932927104,0.39239886
+Minority false generalization,NA,Restaurants are Chinese restaurants,Artifact,-0.91,2.42,27.42,restaurants,chinese,1,0.1801488877651928,0.25734338,0.16965835965593337,0.30502832
+Minority false generalization,NA,Tables are 10 feet long,Artifact,-0.67,0.05,19.63,NA,NA,1,NA,NA,NA,NA
+Minority false generalization,NA,Trees are palm trees,Natural,-0.48,1.94,13.79,trees,palm,1,0.2557068723989899,0.36773515,0.295412071976798,0.44432184
